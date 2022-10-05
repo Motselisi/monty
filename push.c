@@ -49,4 +49,3 @@ exit(EXIT_FAILURE);
 }
 var.stack_len++;
 }
-
