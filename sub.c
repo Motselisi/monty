@@ -27,4 +27,3 @@ aux->next->n = sus;
 *head = aux->next;
 free(aux);
 }
-
